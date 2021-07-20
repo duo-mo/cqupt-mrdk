@@ -81,6 +81,7 @@ function checkRepeatClock() {
     return;
   }
   const key = {
+    openid: secret_keys.open_i,
     xh: secret_keys.student_num,
     timestamp: getTimeStamp()
   };
