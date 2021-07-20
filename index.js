@@ -1,6 +1,6 @@
-// version v1.1
-// create by ourongxing
-// detail url: https://github.com/ourongxing/CQUPT-Health-ClockIn
+// version v1.2
+// create by Ncmzh
+// detail url: https://github.com/Ncmzh/cqupt-mrdk-2021.7.20
 
 const { getMrdkKey } = require("./mrdkkey.js");
 const ax = require("axios");
