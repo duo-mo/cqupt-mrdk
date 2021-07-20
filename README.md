@@ -60,3 +60,8 @@
 
 ### Fork 后同步我的更新
 可以参考[这个回答](https://www.zhihu.com/question/28676261/answer/1545698800)
+
+
+### 2021.7.20更新
+服务器变化尝试修改we.cqupt.edu.cn
+
