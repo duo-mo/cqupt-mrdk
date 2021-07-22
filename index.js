@@ -87,7 +87,7 @@ function checkRepeatClock() {
   };
   const key_base64 = new Buffer.from(JSON.stringify(key)).toString("base64");
   const options = {
-    url: "https://we.cqupt.edu.cn/api/mrdk/get_mrdk_list_test.php",
+    url: "https://we.cqupt.edu.cn/api/mrdk/get_mrdk_flag",
     method: "POST",
     data: {
       key: key_base64
